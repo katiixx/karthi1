@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1>My first PHP page</h1>
+<h1>Intor php of Elastic Beanstalk</h1>
 
 <?php
 echo "Hello World!";
